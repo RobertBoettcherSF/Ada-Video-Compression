@@ -1,6 +1,4 @@
 -- video_compression.ads
-with Ada.Exceptions;
-
 package Video_Compression is
 
    -- Custom Exceptions for Robustness & Validation
